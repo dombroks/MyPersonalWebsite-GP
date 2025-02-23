@@ -1,7 +1,7 @@
 baseURL = "https://dombroks.github.io/MyPersonalWebsite-GP/"
 languageCode = "en-us"
 title = "My Personal Website"
-theme = ""
+
 [permalinks]
   articles = "/blog/:slug/"
 
