@@ -1,7 +1,7 @@
 ---
 title: "Delivery App"
 date: 2021-03-13
-image: "/img/location_android.jpg"
+image: "/img/location_android.webp"
 context: "Mobile Development | Flutter"
 link : "https://github.com/dombroks/delivery_app"
 ---
