@@ -1,7 +1,7 @@
 ---
 title: "Hiring App"
 date: 2020-07-02
-image: "/img/hiring_app.png"
+image: "img/hiring_app.png"
 context: "Mobile Development | Android"
 link : "https://github.com/dombroks/Hire_Me"
 ---
